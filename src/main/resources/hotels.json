@@ -1,0 +1,629 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Ramada",
+    "latitude": 46.764654252624204,
+    "longitude": 23.598674125224626,
+    "rooms": [
+      {
+        "roomNumber": 210,
+        "type": 2,
+        "price": 200,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 125,
+        "type": 1,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 87,
+        "type": 1,
+        "price": 300,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 89,
+        "type": 0,
+        "price": 150,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Grand Hotel Italia",
+    "latitude": 46.7522792440665,
+    "longitude": 23.605990381045697,
+    "rooms": [
+      {
+        "roomNumber": 41,
+        "type": 3,
+        "price": 240,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 125,
+        "type": 1,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 87,
+        "type": 1,
+        "price": 300,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 82,
+        "type": 0,
+        "price": 150,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hampton by Hilton",
+    "latitude": 46.77539900854998,
+    "longitude": 23.60182699638966,
+    "rooms": [
+      {
+        "roomNumber": 32,
+        "type": 3,
+        "price": 410,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 21,
+        "type": 1,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 64,
+        "type": 2,
+        "price": 350,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Royal Classic Hotel",
+    "latitude": 46.7641804,
+    "longitude": 23.6210827,
+    "rooms": [
+      {
+        "roomNumber": 101,
+        "type": 1,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 202,
+        "type": 2,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 305,
+        "type": 3,
+        "price": 500,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hotel River Park",
+    "latitude": 46.7680893,
+    "longitude": 23.5564771,
+    "rooms": [
+      {
+        "roomNumber": 12,
+        "type": 1,
+        "price": 180,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 27,
+        "type": 2,
+        "price": 280,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 39,
+        "type": 3,
+        "price": 400,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 51,
+        "type": 2,
+        "price": 320,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "SunGarden",
+    "latitude": 46.8108691,
+    "longitude": 23.4856338,
+    "rooms": [
+      {
+        "roomNumber": 7,
+        "type": 0,
+        "price": 150,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 22,
+        "type": 2,
+        "price": 220,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 35,
+        "type": 3,
+        "price": 300,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Harmonia Mundi (The Castle)",
+    "latitude": 46.7014095,
+    "longitude": 23.4453532,
+    "rooms": [
+      {
+        "roomNumber": 5,
+        "type": 1,
+        "price": 400,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 11,
+        "type": 2,
+        "price": 500,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 17,
+        "type": 3,
+        "price": 600,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 23,
+        "type": 1,
+        "price": 800,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hotel Cristal (Boutique Hotel)",
+    "latitude": 46.7647524,
+    "longitude": 23.5723069,
+    "rooms": [
+      {
+        "roomNumber": 3,
+        "type": 1,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 6,
+        "type": 2,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 9,
+        "type": 3,
+        "price": 450,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hotel Sunny Hill",
+    "latitude": 46.716574,
+    "longitude": 23.5754818,
+    "rooms": [
+      {
+        "roomNumber": 15,
+        "type": 1,
+        "price": 180,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 28,
+        "type": 2,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 41,
+        "type": 3,
+        "price": 320,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 54,
+        "type": 2,
+        "price": 280,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Panorama Business Inn",
+    "latitude": 46.7795639,
+    "longitude": 23.5619651,
+    "rooms": [
+      {
+        "roomNumber": 101,
+        "type": 2,
+        "price": 300,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 202,
+        "type": 3,
+        "price": 400,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 303,
+        "type": 2,
+        "price": 350,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Salis Hotel & Medical Spa",
+    "latitude": 46.5803693,
+    "longitude": 23.7714786,
+    "rooms": [
+      {
+        "roomNumber": 12,
+        "type": 1,
+        "price": 220,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 25,
+        "type": 2,
+        "price": 320,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 38,
+        "type": 3,
+        "price": 420,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 51,
+        "type": 3,
+        "price": 520,
+        "isAvailable": true
+      }
+    ]
+  },{
+  "id": 12,
+  "name": "Pensiunea Oaza Apusenilor",
+  "latitude": 46.4869367,
+  "longitude": 23.8544579,
+  "rooms": [
+    {
+      "roomNumber": 1,
+      "type": 1,
+      "price": 120,
+      "isAvailable": true
+    },
+    {
+      "roomNumber": 2,
+      "type": 2,
+      "price": 180,
+      "isAvailable": true
+    },
+    {
+      "roomNumber": 3,
+      "type": 1,
+      "price": 150,
+      "isAvailable": true
+    }
+  ]
+},
+  {
+    "id": 13,
+    "name": "Hotel-Restaurant Merion",
+    "latitude": 47.0303546,
+    "longitude": 23.9293525,
+    "rooms": [
+      {
+        "roomNumber": 101,
+        "type": 2,
+        "price": 200,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 102,
+        "type": 3,
+        "price": 300,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 103,
+        "type": 1,
+        "price": 150,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Casa Zânelor",
+    "latitude": 46.7487316,
+    "longitude": 23.4750742,
+    "rooms": [
+      {
+        "roomNumber": 1,
+        "type": 1,
+        "price": 180,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 2,
+        "type": 2,
+        "price": 220,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 3,
+        "type": 3,
+        "price": 280,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Vibre Hotel",
+    "latitude": 46.7652447,
+    "longitude": 23.6050962,
+    "rooms": [
+      {
+        "roomNumber": 201,
+        "type": 2,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 202,
+        "type": 3,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 203,
+        "type": 1,
+        "price": 200,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Athos Hotel",
+    "latitude": 46.7536458,
+    "longitude": 23.6119153,
+    "rooms": [
+      {
+        "roomNumber": 11,
+        "type": 1,
+        "price": 180,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 22,
+        "type": 2,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 33,
+        "type": 3,
+        "price": 320,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pensiunea View",
+    "latitude": 46.7310981,
+    "longitude": 23.5873644,
+    "rooms": [
+      {
+        "roomNumber": 1,
+        "type": 1,
+        "price": 120,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 2,
+        "type": 2,
+        "price": 180,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 3,
+        "type": 1,
+        "price": 150,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Siesta Boutique Smart Suites",
+    "latitude": 46.7684894,
+    "longitude": 23.5857762,
+    "rooms": [
+      {
+        "roomNumber": 101,
+        "type": 2,
+        "price": 280,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 102,
+        "type": 3,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 103,
+        "type": 1,
+        "price": 220,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Hotel Meridian",
+    "latitude": 46.76259,
+    "longitude": 23.5974687,
+    "rooms": [
+      {
+        "roomNumber": 211,
+        "type": 2,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 212,
+        "type": 3,
+        "price": 300,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 213,
+        "type": 1,
+        "price": 200,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Hotel Belvedere",
+    "latitude": 46.7743753,
+    "longitude": 23.5817101,
+    "rooms": [
+      {
+        "roomNumber": 301,
+        "type": 2,
+        "price": 280,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 302,
+        "type": 3,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 303,
+        "type": 1,
+        "price": 220,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Hotel Platinia",
+    "latitude": 46.7633004,
+    "longitude": 23.5721145,
+    "rooms": [
+      {
+        "roomNumber": 111,
+        "type": 1,
+        "price": 180,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 112,
+        "type": 2,
+        "price": 250,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 113,
+        "type": 3,
+        "price": 320,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Hotel Paradis",
+    "latitude": 46.7800646,
+    "longitude": 23.6132856,
+    "rooms": [
+      {
+        "roomNumber": 201,
+        "type": 2,
+        "price": 280,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 202,
+        "type": 3,
+        "price": 350,
+        "isAvailable": true
+      },
+      {
+        "roomNumber": 203,
+        "type": 1,
+        "price": 220,
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+  "id": 23,
+  "name": "Hotel Tempo",
+  "latitude": 46.5556434,
+  "longitude": 24.5474278,
+  "rooms": [
+    {
+      "roomNumber": 11,
+      "type": 1,
+      "price": 150,
+      "isAvailable": true
+    },
+    {
+      "roomNumber": 22,
+      "type": 2,
+      "price": 220,
+      "isAvailable": true
+    }
+  ]
+  }
+]

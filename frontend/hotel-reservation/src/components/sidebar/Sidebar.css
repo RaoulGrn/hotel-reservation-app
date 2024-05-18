@@ -1,0 +1,22 @@
+.sidenav-open {
+  width: 200px !important; /* Adjust width for larger screens */
+}
+
+.sidenav-closed {
+  width: 64px !important; /* Width when sidebar is collapsed */
+}
+
+@media (max-width: 768px) {
+  .sidenav-open {
+    width: 80px !important; /* Adjusted width for smaller screens */
+  }
+}
+
+.sidebar-wrapper .react-sidenav {
+  transition: width 0.3s;
+  overflow-y: auto; /* Ensure vertical scrolling */
+}
+
+.sidebar-wrapper .react-sidenav .sidenav {
+  width: inherit !important; /* Inherit width to prevent pushing content */
+}
