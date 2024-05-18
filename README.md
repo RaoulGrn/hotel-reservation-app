@@ -39,7 +39,7 @@ Run the main class
 
 ![proj23](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/1cb4b6cf-a468-41ed-9b5a-878bcfa74e84)
 
-## So admin user = admin and password = passwordP1.
+## So admin => user = admin and password = passwordP1.
 
 ## Demo pics and details
 I will describe the tasks and offer a photo for each of them.
