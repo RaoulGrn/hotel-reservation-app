@@ -13,8 +13,11 @@ To run this project:
 
 clone this repo, open terminal and use => 
 > cd frontend
+
 > cd hotel-reservation
+
 > npm install
+
 > npm run dev
 
 ### Backend:
