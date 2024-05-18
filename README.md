@@ -22,8 +22,7 @@ clone this repo, open terminal in root directory of the cloned project and use =
 
 ### Backend:
 
-clone this repo, open terminal in root directory of the cloned project =>
-> cd hotel-reservation-app
+clone this repo, open terminal in the root directory of the cloned project =>
 
 Compile the Java files
 > javac -d bin src/grnraoul/hotelreservationapp/*.java
