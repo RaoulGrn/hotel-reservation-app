@@ -7,6 +7,26 @@ I made this project using Java Spring on back-end and React, TailwindCss and Rea
 
 ## Project Description
 
+To run this project:
+
+###Frontend:
+
+clone this repo, open terminal and use => cd frontend, cd hotel-reservation, npm install, npm run dev in this order. 
+
+###Backend:
+
+clone this repo, open terminal =>
+> cd hotel-reservation-app
+
+Compile the Java files
+> javac -d bin src/grnraoul/hotelreservationapp/*.java
+
+Run the main class
+> java -cp bin grnraoul.hotelreservationapp.Main
+
+- > Alternatively, you can JUST PRESS BUILD AND RUN FROM IntelliJ IDEA or use a similar function from other IDE.
+
+##Demo pics and details
 I will describe the tasks and offer a photo for each of them.
 
 ### the users specifies a radius in kilometers to find all the nearby hotels and the application lists and display all the hotels found
