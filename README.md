@@ -83,6 +83,11 @@ I will describe the tasks and offer a photo for each of them.
 ![proj2](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/52f20514-a4bf-4c64-b19c-2cfd68de60ed)
 ![proj3](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/73ec00a1-987b-4398-b6fe-5406e12f5336)
 
+### Gmaps Implementation
+
+![proj11](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/941cbafd-5a3c-42d5-be20-df8e1e066c40)
+
+
 ### Admin Page - the admin can delete users or click on them and see a modal with their reservations and comments
 
 ![proj20](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/65df8dd3-e233-4dca-9d72-fdefd2380136)
