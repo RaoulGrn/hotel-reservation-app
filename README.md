@@ -102,6 +102,12 @@ Even though my application lacks unit tests. I tested all of the major endpoints
 ![proj24](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/16082148-b7fc-4040-b9de-f6203c9bf2b3)
 
 
+### KNOWN ISSUES
+
+After submitting the feedback form on a hotel page, we must refresh for the comment to be visible on the hotel. (Under the map)
+
+
+
 
 
 
