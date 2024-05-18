@@ -68,6 +68,15 @@ const UserReservations = () => {
     const formattedCheckOutTime = formatDate(formData.newCheckOutTime);
 
     try {
+      // Check if it's less than two hours before the check-in time
+      const currentTime = new Date();
+      const checkInTime = new Date(formData.newCheckInTime);
+      if (checkInTime - currentTime < 2 * 60 * 60 * 1000) {
+        throw new Error(
+          "Cannot change reservation less than two hours before check-in."
+        );
+      }
+
       await axios.put(
         `http://localhost:8080/reservations/${reservationId}/change-room?newRoomId=${formData.newRoomId}&username=${user}&newCheckInTime=${formattedCheckInTime}&newCheckOutTime=${formattedCheckOutTime}`,
         {},
@@ -89,7 +98,7 @@ const UserReservations = () => {
       );
       setReservations(response.data);
     } catch (error) {
-      setError("Error changing reservation. Please try again later.");
+      setError(error.message);
     }
   };
 
@@ -107,15 +116,12 @@ const UserReservations = () => {
     return <div>Loading...</div>;
   }
 
-  if (error) {
-    return <div>{error}</div>;
-  }
-
   return (
-    <div className="container vh-100 md:mx-auto md:p-6 p-28 mx-auto -translate-x-5 sm:m-6  ">
+    <div className="container vh-100 md:mx-auto md:p-6 p-28 mx-auto -translate-x-5 sm:m-6">
       <h1 className="text-3xl font-bold mb-4 text-orange-500">
         User Reservations
       </h1>
+      {error && <div className="text-red-500 mb-4">{error}</div>}
       {reservations.length === 0 ? (
         <div className="text-custom-light-gray">No reservations found.</div>
       ) : (
