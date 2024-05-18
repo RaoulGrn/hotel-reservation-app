@@ -103,10 +103,10 @@ Even though my application lacks unit tests. I tested all of the major endpoints
 
 ### KNOWN ISSUES
 
-After submitting the feedback form on a hotel page, we must refresh for the comment to be visible on the hotel. (Under the map)
-I have some endpoints that are not used. Basic Crud methods. 
-Some bussiness logic in one or more controllers. Can be refactored to look a cleaner.
-Also, from an aesthetic point of view, things could be improved :D
+> After submitting the feedback form on a hotel page, we must refresh for the comment to be visible on the hotel. (Under the map)
+> I have some endpoints that are not used. Basic Crud methods. 
+> Some bussiness logic in one or more controllers. Can be refactored to look a cleaner.
+> From an aesthetic point of view, things could be improved :D
 
 
 
