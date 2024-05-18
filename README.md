@@ -105,7 +105,7 @@ Even though my application lacks unit tests. I tested all of the major endpoints
 ### KNOWN ISSUES
 
 After submitting the feedback form on a hotel page, we must refresh for the comment to be visible on the hotel. (Under the map)
-
+Also, from an aesthetic point of view, things could be improved :D
 
 
 
