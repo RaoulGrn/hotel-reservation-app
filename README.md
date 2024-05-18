@@ -31,6 +31,13 @@ Run the main class
 > java -cp bin grnraoul.hotelreservationapp.Main
 
 - > Alternatively, you can JUST PRESS BUILD AND RUN FROM IntelliJ IDEA or use a similar function from other IDE.
+  > 
+### DATABASE:
+
+DATABASE: Make sure you have PostgreSql driver installed and that you can connect to the db (check application.yml).
+
+![db](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/0c971682-ec96-4b9e-bdde-895ebf3bf468)
+
 
 ### DISCLAIMER: I let my gmaps api key into the code on purpose, I know i should've used a .env file. But for fast testing by who will review the code I will let it there for a few days. It is limited, so no damage can be done.
 
