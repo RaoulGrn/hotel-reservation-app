@@ -35,6 +35,12 @@ Run the main class
 
 ### DISCLAIMER: I let my gmaps api key into the code on purpose, I know i should've used a .env file. But for fast testing by who will review the code I will let it there for a few days. It is limited, so no damage can be done.
 
+### DISCLAIMER #2: THE ADMIN PASSWORD CAN BE FOUND IN THE COMMANDLINERUNNER run METHOD found in the main class file.
+
+![proj23](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/1cb4b6cf-a468-41ed-9b5a-878bcfa74e84)
+
+## So admin user = admin and password = passwordP1.
+
 ## Demo pics and details
 I will describe the tasks and offer a photo for each of them.
 
