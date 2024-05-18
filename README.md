@@ -1,4 +1,3 @@
-![proj8](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/e22537ab-1edd-48ed-86b7-7d652ea1acec)# Hotel Reservation App
 
 ## About the project
 
