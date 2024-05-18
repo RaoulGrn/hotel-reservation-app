@@ -11,7 +11,11 @@ To run this project:
 
 ### Frontend:
 
-clone this repo, open terminal and use => cd frontend, cd hotel-reservation, npm install, npm run dev in this order. 
+clone this repo, open terminal and use => 
+> cd frontend
+> cd hotel-reservation
+> npm install
+> npm run dev
 
 ### Backend:
 
@@ -25,6 +29,8 @@ Run the main class
 > java -cp bin grnraoul.hotelreservationapp.Main
 
 - > Alternatively, you can JUST PRESS BUILD AND RUN FROM IntelliJ IDEA or use a similar function from other IDE.
+
+### DISCLAIMER: I let my gmaps api key into the code on purpose, I know i should've used a .env file. But for fast testing by who will review the code I will let it there for a few days. It is limited, so no damage can be done.
 
 ## Demo pics and details
 I will describe the tasks and offer a photo for each of them.
