@@ -83,7 +83,7 @@ I will describe the tasks and offer a photo for each of them.
 
 ### Bonus information:
 
-Even though my application lacks unit tests. I tested all of the endpoints with Postman
+Even though my application lacks unit tests. I tested all of the major endpoints with Postman
 
 ![proj24](https://github.com/RaoulGrn/hotel-reservation-app/assets/108396853/16082148-b7fc-4040-b9de-f6203c9bf2b3)
 
