@@ -11,7 +11,7 @@ To run this project:
 
 ### Frontend:
 
-clone this repo, open terminal and use => 
+clone this repo, open terminal in root directory of the cloned project and use => 
 > cd frontend
 
 > cd hotel-reservation
@@ -22,7 +22,7 @@ clone this repo, open terminal and use =>
 
 ### Backend:
 
-clone this repo, open terminal =>
+clone this repo, open terminal in root directory of the cloned project =>
 > cd hotel-reservation-app
 
 Compile the Java files
