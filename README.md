@@ -47,8 +47,7 @@ DATABASE: Make sure you have PostgreSql driver installed and that you can connec
 
 ## So admin => user = admin and password = passwordP1.
 
-## Demo pics and details
-I will describe the tasks and offer a photo for each of them.
+## Screenshots and task details
 
 ### The user specifies a radius in kilometers to find all the nearby hotels and the application lists and display all the hotels found
 
