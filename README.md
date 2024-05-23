@@ -25,10 +25,10 @@ clone this repo, open terminal in root directory of the cloned project and use =
 clone this repo, open terminal in the root directory of the cloned project =>
 
 Compile the Java files
-> javac -d bin src/grnraoul/hotelreservationapp/*.java
+> javac -d bin src/hotelreservationapp/*.java
 
 Run the main class
-> java -cp bin grnraoul.hotelreservationapp.Main
+> java -cp bin hotelreservationapp.Main
 
 - > Alternatively, you can JUST PRESS BUILD AND RUN FROM IntelliJ IDEA or use a similar function from other IDE.
   > 
