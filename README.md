@@ -5,9 +5,7 @@
   
 ## About the project
 
-This project was made for the Siemens Java Developer Internship technical assessment.
-We had to implement a web application for hotel reservation management.
-I made this project using Java Spring on back-end and React, TailwindCss and React Boostrap on frontend.
+A hotel reservation management app with a search hotels by range functionality. Users can make room reservations and leave feedbacks. I made this project using Java Spring & PostgreSQL on backend and React on frontend.
 
 ## Project Description
 
